@@ -2,11 +2,11 @@
 
 Practicing react native weather app with 
 
-React native
-Redux
-Redux-saga
-React-navigation
+React native,
+Redux,
+Redux-saga,
+React-navigation,
 
 
-Things need to be done
+Things need to be done -
 Jest 
